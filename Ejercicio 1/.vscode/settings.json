@@ -1,0 +1,11 @@
+{
+    "editor.codeActionsOnSave": null,
+    "editor.defaultFormatter": "ms-dotnettools.csharp",
+    "editor.tabCompletion": "on",
+    "zenMode.silentNotifications": false,
+    "coverage-gutters.showRulerCoverage": true,
+    "cSpell.language": "en,es",
+    "cSpell.languageSettings": [
+    
+    ]
+}
