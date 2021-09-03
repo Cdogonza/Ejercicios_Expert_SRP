@@ -19,11 +19,10 @@ public class Biblioteca
         {   
             DatosLibro.Append($"El codigo del libro es {Libro.Codigo} de titulo  {Libro.Titulo} esta en ");
             DatosLibro.Append($"sector {this.SectorBiblioteca} y estanteria {this.EstanteBiblioteca}");
-            Console.WrithgtrtteLine(DatosLibro);
-            Console.WrithgtrtteLinekkjmlhmlmkklyhkjdsbgdsbdsg.bgdsbgdsbbskjyk
-            bdsgbgdsbgdwbbfxsgtdsnfsfr              
-        }bsbsbsdbdwbtdbgds
+            
+            
 
 
+}
 }
 }

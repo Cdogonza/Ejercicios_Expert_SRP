@@ -14,10 +14,9 @@ namespace SRP
             Biblioteca libroA = new Biblioteca("A","7",libro1.Codigo);
             Biblioteca libroB = new Biblioteca("B","3",libro2.Codigo);
 
-
             libroB.Ver_Lugar_Libro(libro2);
             libroA.Ver_Lugar_Libro(libro1);
-      
+            Console.WriteLine(libro1.Titulo);
         }
     }
 }
